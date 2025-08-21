@@ -1,0 +1,5 @@
+a = int(input("A Id: "))
+b = int(input("B Id: "))
+
+print("a id: ", a)
+print("b id: ", b)
